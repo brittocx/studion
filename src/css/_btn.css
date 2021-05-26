@@ -34,7 +34,8 @@
   }
 }
 
-.btn--institutional:hover,
+.btn--institutional,
+.btn--quote,
 .btn--contact:hover {
   color: var(--color-copy);
   background: unset;
