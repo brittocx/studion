@@ -6,7 +6,7 @@ This is a test home page made by me according to the Front End Developer course 
 
 
 
-StudiOn is a fake Event and Services provider.
+StudiOn is a <strike>fake</strike> Event and Services provider.
 
 
 
