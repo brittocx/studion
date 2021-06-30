@@ -1,6 +1,15 @@
 .hero {
   position: relative;
-  height: 34.625rem;
+  height: 34.3rem;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 1280px) {
+  .hero {
+    position: relative;
+    height: 34.3rem;
+    overflow: hidden;
+  }
 }
 
 .hero__background {
@@ -18,7 +27,8 @@
   padding: 7rem 1.875rem;
 }
 
-.hero__copy h2 {
+.hero__copy h2,
+.hero__copy h3 {
   margin: 0;
   margin-bottom: 3rem;
   font-size: 7.5rem;
@@ -32,4 +42,48 @@
   font-size: 0.9375rem;
   line-height: 1.875rem;
   color: var(--color-copy--alt);
+}
+
+@media screen and (max-width: 1280px) {
+  .hero__copy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    bottom: -50px;
+    right: -10px;
+    width: auto;
+    height: auto;
+    padding: 10rem 1.875rem;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .hero__copy h2 {
+    margin: 8px;
+    margin-bottom: 2rem;
+    font-size: 3.5rem;
+    line-height: 4.5rem;
+    letter-spacing: -0.3125rem;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .hero__copy h3 {
+    margin: -4px;
+    margin-bottom: 0rem;
+    font-size: 3.5rem;
+    line-height: 4.5rem;
+    letter-spacing: -0.3125rem;
+    color: var(--color-primary);
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .hero__copy p {
+    margin: 16px;
+    text-align: center;
+    font-size: 0.9375rem;
+    line-height: 1.875rem;
+    color: var(--color-copy--alt);
+  }
 }

@@ -84,6 +84,7 @@
   justify-self: end;
   align-self: start;
   margin-top: 1.8rem;
+  margin-right: 1rem;
 }
 
 @media screen and (min-width: 1280px) {
