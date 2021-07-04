@@ -15,6 +15,4 @@ The homepage is also responsive and working on mobile devices.
 
 
 
-Next updates:
-* Creation of the Company, Events, Gallery and Testimonials pages, currently only the home page and contacts are working.
-* Add responsiveness to the contacts page and the others, since only the home page is fully responsive.
+Now Live and full responsive!
