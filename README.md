@@ -1,6 +1,6 @@
 # StudiOn
 
-Now the page is online at: http://studion-institutional-brittocx.surge.sh/
+NOW LIVE AND FULL RESPONSIVE AT: http://studion-institutional-brittocx.surge.sh/
 
 This is a test home page made by me according to the Front End Developer course at Imagine School.
 
@@ -15,4 +15,4 @@ The homepage is also responsive and working on mobile devices.
 
 
 
-Now Live and full responsive!
+
